@@ -1,3 +1,7 @@
+"""
+MADE BY SOURNAV SEKHAR BHATTACHARYA
+VR ENHANCED ROBOTICS TEAM 2018
+"""
 import cv2
 def work(a,b,h1,h2):
     cx1=(a[0]/2)+(a[2]/2)
