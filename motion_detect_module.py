@@ -1,3 +1,7 @@
+"""
+MADE BY SOURNAV SEKHAR BHATTACHARYA
+VR ENHANCED ROBOTICS TEAM 2018
+"""
 import cv2
 import numpy as np
 cap=cv2.VideoCapture('vid6.mp4')
